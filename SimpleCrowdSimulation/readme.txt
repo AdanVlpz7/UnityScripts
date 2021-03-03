@@ -1,0 +1,1 @@
+This script is used for a simple crowd simulation an we give it to the elements of the crowd at the inspector, those elements will be nav mesh agents who will use the script to look an object in the scene which is the 'goal object' so the script can get it's posicion and make our agents to go there.
