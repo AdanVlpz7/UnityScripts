@@ -1,0 +1,2 @@
+este script esta anexado a una nave, es de un proyecto 2D y es capaz de mover la nave asi como de ejecutar disparos.
+Hay una simple demostración de como trabajar con una clase en la que no heredamos MonoBehavior.
